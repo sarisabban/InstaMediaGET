@@ -1,5 +1,5 @@
 # InstaVideoGET
-A small script that parses an instagram account and get all the video URLs.
+A small script that parses an instagram account and gets all the video URLs.
 
 ## HOW TO USE
 1. Run script as follows:
