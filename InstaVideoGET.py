@@ -74,5 +74,6 @@ for page in ListOfPages:
 	print('Finished Page', count)
 	for URLs in ListOfVideos:
 		TheFile = open('Videos' , 'a')
+		TheFile.write('Hello, this is a tweet title' + '\n') #<-- Optional: Adds a text string before each URL (can be used with a twitter bot to tweet the string as title and the link as the media)
 		TheFile.write(URLs + '\n')
 		TheFile.close()
