@@ -1,4 +1,4 @@
-# InstaVideoGET
+# InstaMediaGET
 A small script that parses an instagram account and gets all the video or image URLs.
 
 ## HOW TO USE
